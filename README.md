@@ -1,5 +1,4 @@
 ## **AIRPORT INFORMATION MODULE**
----
 Takes an Airport *Code* and returns an Airport's
 * Name
 * City 
@@ -11,3 +10,7 @@ as an object.
 * Whether the code passed is a valid string 
 * Whether an airport of the given code exists
 * Whether the function returns the required object
+
+All test cases Passed:
+
+<img src = 'resources\testsScreenGrab.png'>
